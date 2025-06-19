@@ -1,0 +1,10 @@
+[
+  {
+    "name": "1 Rupee 1947 George VI",
+    "year": "1947",
+    "price": "₹500",
+    "image": "assets/images/coins/coin1.jpg",
+    "upi": "upi://pay?pa=yourupi@bank&pn=VintageVault&am=500",
+    "paypal": "https://www.paypal.com/pay?amount=500"
+  }
+]

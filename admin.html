@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin - VintageVault</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>VintageVault Admin</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="admin.html">Admin</a>
+    </nav>
+  </header>
+
+  <section class="admin">
+    <h2>Admin Panel</h2>
+    <input type="password" id="admin-pass" placeholder="Enter Admin Password" />
+    <button onclick="unlockAdmin()">Unlock</button>
+    <div id="admin-panel" style="display:none;">
+      <textarea id="json-input" rows="20" cols="80"></textarea>
+      <br>
+      <button onclick="saveJSON()">Save</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 VintageVault. All rights reserved.</p>
+  </footer>
+
+  <script src="assets/js/admin.js"></script>
+</body>
+</html>
