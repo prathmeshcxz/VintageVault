@@ -1,10 +1,30 @@
 [
   {
-    "name": "1 Rupee 1947 George VI",
-    "year": "1947",
-    "price": "₹500",
-    "image": "assets/images/coins/coin1.jpg",
-    "upi": "upi://pay?pa=yourupi@bank&pn=VintageVault&am=500",
-    "paypal": "https://www.paypal.com/pay?amount=500"
+    "id": 1,
+    "name": "50 Paise Coin - 1990",
+    "image": "assets/images/50paise1990.jpg",
+    "price": "\u20b9100 / $1.2",
+    "description": "Indian 50 paise coin from 1990 with floral design"
+  },
+  {
+    "id": 2,
+    "name": "5 Paise Coin - 1990",
+    "image": "assets/images/5paise1990.jpg",
+    "price": "\u20b9200 / $3",
+    "description": "Indian 5 paise coin from 1990 with square shape"
+  },
+  {
+    "id": 3,
+    "name": "10 Paise Coin - 1990",
+    "image": "assets/images/10paise1990.jpg",
+    "price": "\u20b9150 / $2",
+    "description": "Round Indian 10 paise coin from 1990"
+  },
+  {
+    "id": 4,
+    "name": "1 Rupee Coin - 1990",
+    "image": "assets/images/1rupee1990.jpg",
+    "price": "\u20b950 / $0.5",
+    "description": "1 Rupee Indian coin from 1990 featuring wheat stalks"
   }
 ]
