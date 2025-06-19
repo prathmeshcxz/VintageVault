@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "1 Rupee Coin - 1992",
+    "image": "assets/images/1rupee1992.jpg",
+    "price": "₹50",
+    "description": "Stainless steel Indian 1 rupee coin from 1992"
+  },
+  {
+    "id": 2,
+    "name": "2 Rupees Coin - 2000",
+    "image": "assets/images/2rupee2000.jpg",
+    "price": "₹60",
+    "description": "2 rupees coin commemorating agriculture growth"
+  }
+]
